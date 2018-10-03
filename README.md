@@ -1,6 +1,5 @@
 # teapot-demo
 Raster graphics rendering of the famous Utah Teapot.
-Implements blinn-phong rendering.
 
 ## Dependencies
 * GLFW
